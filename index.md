@@ -4,10 +4,10 @@
     <td width="75%">
       <h1>Junwei He</h1>
 <!--       <p><b>2018级本科生</b></p> -->
-      <p><b>HIT</b></p>
+      <p><b>Harbin Institute of Technology</b></p>
 <!--       <p><b>邮箱：3326572402@qq.com</b></p> -->
 <!--       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p> -->
-<!--       <p><a href="/index-en.html">English Version</a></p> -->
+      <p><a href="/index-en.html">Chinese Version</a></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
