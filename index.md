@@ -30,16 +30,13 @@ or Computer vision,contact me if you are interested!
 <!-- ### 最新消息
 1. 消息1××× -->
 
-### Research interest
+#### Research interest
 - Self-supervised learning
 - Decoupling learning
 - Multimodal learning
 - Knowledge Graph
 
-<!-- ### Honor rewards
-- 奖学金
-- 荣誉称号
-- 比赛获奖 -->
+
 
 <!-- ### 项目研究 -->
 <!-- #### 
@@ -60,3 +57,8 @@ knowledge graph and video understanding
 #### programming skill
 - Python(mainly using),C++(some),Java(little)
 - Git,Linux
+
+### Honors & Awards
+- National IoT Competition Second Award (Region)
+- First Prize of China Collegiate Programming Contest (CCPC) of Heilongjiang Province, 2020
+- Meritorious Winner of Mathematical Contest In Modeling, 2020
