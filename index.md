@@ -11,7 +11,7 @@
 <!--       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p> -->
       <!-- <p><a href="/https://www.cnblogs.com/upuphe/">blog</a></p> -->
     </td>
-    <td width="25%">
+    <td width="40%">
       <img src="/he.jpg" width="100%">
     </td>
   </tr>
@@ -26,7 +26,6 @@ I am currently an undergraduate majoring in computer Science and technology in H
 
 I'm actively looking for new opportunities (Research intern, prefer located in Beijing) related to cross-modal learning,
 or Computer vision,contact me if you are interested!
----
 
 <!-- ### 最新消息
 1. 消息1××× -->
